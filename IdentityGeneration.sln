@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityGeneration", "IdentityGeneration.csproj", "{D001A3A1-FA25-4C91-A6B2-83DDEA0D60AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityGeneration", "IdentityGeneration\IdentityGeneration.csproj", "{D001A3A1-FA25-4C91-A6B2-83DDEA0D60AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityGeneration.Tests", "..\IdentityGeneration.Tests\IdentityGeneration.Tests.csproj", "{EA0B47B3-6BDF-443F-A74F-77AAB7BD7504}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityGeneration.Tests", "IdentityGeneration.Tests\IdentityGeneration.Tests.csproj", "{EA0B47B3-6BDF-443F-A74F-77AAB7BD7504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityGeneration.WebApi", "..\IdentityGeneration.WebApi\IdentityGeneration.WebApi.csproj", "{8E29A65B-75EA-4436-B0F1-15FA493E867C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityGeneration.WebApi", "IdentityGeneration.WebApi\IdentityGeneration.WebApi.csproj", "{8E29A65B-75EA-4436-B0F1-15FA493E867C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
