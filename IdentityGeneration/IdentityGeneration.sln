@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityGeneration", "Ident
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityGeneration.Tests", "..\IdentityGeneration.Tests\IdentityGeneration.Tests.csproj", "{EA0B47B3-6BDF-443F-A74F-77AAB7BD7504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityGeneration.WebApi", "..\IdentityGeneration.WebApi\IdentityGeneration.WebApi.csproj", "{8E29A65B-75EA-4436-B0F1-15FA493E867C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EA0B47B3-6BDF-443F-A74F-77AAB7BD7504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA0B47B3-6BDF-443F-A74F-77AAB7BD7504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA0B47B3-6BDF-443F-A74F-77AAB7BD7504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E29A65B-75EA-4436-B0F1-15FA493E867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E29A65B-75EA-4436-B0F1-15FA493E867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E29A65B-75EA-4436-B0F1-15FA493E867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E29A65B-75EA-4436-B0F1-15FA493E867C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
